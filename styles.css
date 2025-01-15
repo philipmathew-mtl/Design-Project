@@ -1,0 +1,56 @@
+.mainbody {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color:grey
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  color: #888;
+}
+.table {
+    border: 1px solid black;
+}
+.preferedstickbrand {
+  height: 20px;
+  width: 300px;
+}
+.team {
+  width: 300px;
+}
+.player {
+  width: 300px;
+}
+.currenthockeystick {
+  width: 300px;
+}
+.email {
+  width: 300px  ;
+}
+.Twitch {
+  float: left;
+}
+.navbar {
+  font-size: xx-large;
+}
